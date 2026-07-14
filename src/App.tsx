@@ -374,7 +374,7 @@ export default function App() {
                 </span>
               </h1>
               <p className="text-[10px] text-slate-500 font-medium font-sans">
-                Ultimate Home & Vehicle Mortgage Modeler
+                Designed by Google AI Studio's AI Coding Agent • Ultimate Home & Vehicle Mortgage Modeler
               </p>
             </div>
           </div>
