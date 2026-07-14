@@ -1,0 +1,6 @@
+{
+  "name": "EMI Calculator",
+  "description": "A modern, responsive Equated Monthly Installment (EMI) Calculator with amortization schedules, graphical insights, and loan comparison tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
